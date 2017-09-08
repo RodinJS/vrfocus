@@ -1,0 +1,63 @@
+.post-share {
+    display: none;
+}
+.responsive-header {
+    display: none;
+}
+.bf-breadcrumb {
+    display: none;
+}
+.post-related {
+    display: none;
+}
+#comments {
+    display: none;
+}
+.section-heading {
+    display: none;
+}
+.sidebar-column {
+    display: none;
+}
+.site-footer {
+    display: none;
+}
+.back-top {
+    display: none;
+}
+.comments-template {
+    display: none;
+}
+.section-menu {
+    display: none;
+}
+
+.bs-pinning-wrapper {
+    display: none;
+}
+.bspw-header {
+    display: none;
+}
+
+.social-list {
+    display: none;
+}
+
+.wrapper-sticky .sticky-active {
+    display: none;
+}
+
+.entry-terms .post-tags {
+    display: none;
+}
+
+.layout-3-col-4 .content-column {
+    left: 0%;
+    width: 100%;
+}
+
+/*for tumbnail*/
+
+/*.main-section {
+    display: none;
+}*/
