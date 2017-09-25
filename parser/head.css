@@ -56,24 +56,19 @@
     width: 100%;
 }
 
-.post-tags {
-    display: none;
-}
+/*for tumbnail*/
 
-.single-post-meta {
-    display: none;
-}
-
-.term-badges {
+.main-section {
     display: none;
 }
 
 .post-template-6 {
     padding-left: 0;
     padding-right: 0;
+    width: 100%;
+    height: auto;
 }
 
-.post-tp-6-header {
-    background-image: none;
-    height: 120px;
+.layout-3-col.layout-bc-before {
+    margin-top: -10px;
 }
