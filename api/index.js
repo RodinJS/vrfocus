@@ -20,10 +20,10 @@ function filter(articles) {
 	for (let i = 0; i < articles.length; i++) {
 		filteredArticles[i] = {
 	        title: articles[i].title,
-	        mainView: articles[i].smallthumburl + '.jpg',
+	        mainView: 'http://13.72.78.165/' + articles[i].smallthumburl + '.jpg',
 	        shortDescription : articles[i].shortDescription,
-	        newsPaperView: articles[i].articleView + '.jpg',
-	        header: articles[i].bigthumburl + '.jpg',
+	        newsPaperView: 'http://13.72.78.165/' + articles[i].articleView + '.jpg',
+	        header: 'http://13.72.78.165/' + articles[i].bigthumburl + '.jpg',
 		}
 	}
 	return filteredArticles;
